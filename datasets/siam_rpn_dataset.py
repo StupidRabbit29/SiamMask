@@ -583,3 +583,4 @@ class DataSets(Dataset):
 
         return template, search, cls, delta, delta_weight, np.array(bbox, np.float32)
 
+
